@@ -53,10 +53,10 @@ A **smooth and visually refreshing mojito-themed landing page**, built with **Re
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/adarshj61/MOJITO.git
 
 # Move into the project folder
-cd your-repo-name
+cd MOJITO
 
 # Install dependencies
 npm install
@@ -111,3 +111,4 @@ I’m open to collaboration, project ideas, and tech discussions. Reach out here
 </p>
 
 ---
+
