@@ -76,7 +76,7 @@ It was built to practice:
 
 - Smooth, timeline-based animations  
 - Clean React component structure  
-- Responsive modern UI  
+- Responsive modern User Interfaces
 - Fast development workflow with Vite  
 
 ---
